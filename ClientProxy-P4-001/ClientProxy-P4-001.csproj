@@ -55,7 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Connected Services\ServiceReference1\ClientProxy_P4_001.ServiceReference1.IMatematikaKoordinat.datasource">
+    <None Include="Connected Services\ServiceReference1\ClientProxy_P4_001.ServiceReference1.Koordinat.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
     <None Include="Connected Services\ServiceReference1\service.wsdl" />
